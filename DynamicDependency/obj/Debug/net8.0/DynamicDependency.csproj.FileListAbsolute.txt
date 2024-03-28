@@ -1,0 +1,14 @@
+C:\Users\virst\source\repos\DynamicDependency\DynamicDependency\obj\Debug\net8.0\DynamicDependency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\virst\source\repos\DynamicDependency\DynamicDependency\obj\Debug\net8.0\DynamicDependency.AssemblyInfoInputs.cache
+C:\Users\virst\source\repos\DynamicDependency\DynamicDependency\obj\Debug\net8.0\DynamicDependency.AssemblyInfo.cs
+C:\Users\virst\source\repos\DynamicDependency\DynamicDependency\obj\Debug\net8.0\DynamicDependency.csproj.CoreCompileInputs.cache
+C:\Users\virst\source\repos\DynamicDependency\DynamicDependency\bin\Debug\net8.0\DynamicDependency.exe
+C:\Users\virst\source\repos\DynamicDependency\DynamicDependency\bin\Debug\net8.0\DynamicDependency.deps.json
+C:\Users\virst\source\repos\DynamicDependency\DynamicDependency\bin\Debug\net8.0\DynamicDependency.runtimeconfig.json
+C:\Users\virst\source\repos\DynamicDependency\DynamicDependency\bin\Debug\net8.0\DynamicDependency.dll
+C:\Users\virst\source\repos\DynamicDependency\DynamicDependency\bin\Debug\net8.0\DynamicDependency.pdb
+C:\Users\virst\source\repos\DynamicDependency\DynamicDependency\obj\Debug\net8.0\DynamicDependency.dll
+C:\Users\virst\source\repos\DynamicDependency\DynamicDependency\obj\Debug\net8.0\refint\DynamicDependency.dll
+C:\Users\virst\source\repos\DynamicDependency\DynamicDependency\obj\Debug\net8.0\DynamicDependency.pdb
+C:\Users\virst\source\repos\DynamicDependency\DynamicDependency\obj\Debug\net8.0\DynamicDependency.genruntimeconfig.cache
+C:\Users\virst\source\repos\DynamicDependency\DynamicDependency\obj\Debug\net8.0\ref\DynamicDependency.dll
